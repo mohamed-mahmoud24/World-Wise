@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Ateca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-01T23:01:13.276Z",
+      "notes": "",
+      "position": {
+        "lat": "41.343824581185714",
+        "lng": "-1.7578125000000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Ireland",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-11-01T23:15:07.527Z",
+      "notes": "asdfasf",
+      "position": {
+        "lat": "52.82932091031373",
+        "lng": "-9.821777343750002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Llanddewi-Brefi",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-01T23:15:54.219Z",
+      "notes": "",
+      "position": {
+        "lat": "52.15371445951162",
+        "lng": "-3.8122558593750004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Canada del Hoyo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-01T23:17:53.517Z",
+      "notes": "sgfsfg",
+      "position": {
+        "lat": "39.9602803542957",
+        "lng": "-1.8841552734375002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Kafr ash Shaykh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-11-02T20:53:24.242Z",
+      "notes": "",
+      "position": {
+        "lat": "31.116443024569485",
+        "lng": "30.953979492187504"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-11-03T16:36:34.934Z",
+      "notes": "",
+      "position": {
+        "lat": "30.038337370914892",
+        "lng": "31.232156753540043"
+      },
+      "id": 98443208
+    }
+  ]
+}
